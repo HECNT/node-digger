@@ -1,0 +1,29 @@
+{
+  "name": "digger",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HECNT/node-digger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HECNT/node-digger/issues"
+  },
+  "homepage": "https://github.com/HECNT/node-digger#readme",
+  "dependencies": {
+    "alert-node": "^0.2.1",
+    "bluebird": "^3.5.0",
+    "dialog": "^0.3.0",
+    "express": "^4.15.3",
+    "mysql": "^2.14.0",
+    "nodemailer": "^4.0.1",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  }
+}
